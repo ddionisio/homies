@@ -1,0 +1,31 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: MyInput - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\TEMP\RSP425.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_MBCS" /D "_LIB" /Fp"Debug/MyInput.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\lab\match5\MyInput\input.cpp"
+"D:\lab\match5\MyInput\input_keyboard.cpp"
+"D:\lab\match5\MyInput\input_mouse.cpp"
+]
+Creating command line "cl.exe @C:\TEMP\RSP425.tmp" 
+Creating command line "link.exe -lib /nologo /out:"Debug\MyInput.lib"  .\Debug\input.obj .\Debug\input_keyboard.obj .\Debug\input_mouse.obj "
+<h3>Output Window</h3>
+Compiling...
+input_keyboard.cpp
+input.cpp
+input_mouse.cpp
+Creating library...
+
+
+
+<h3>Results</h3>
+MyInput.lib - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

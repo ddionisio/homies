@@ -1,0 +1,58 @@
+1 Homies\Textures\mainmenu.jpg 0
+2 Homies\Textures\play_btn.bmp 1 0,0,255
+3 Homies\Textures\opt_btn.bmp 1 0,0,255
+4 Homies\Textures\hiscore_btn.bmp 1 0,0,255
+5 Homies\Textures\exit_btn.bmp 1 0,0,255
+6 Homies\Textures\floor1.jpg 0
+7 Homies\Textures\wall1.jpg 0
+8 Homies\Textures\arrowup.jpg 0
+9 Homies\Textures\arrowdn.jpg 0
+10 Homies\Textures\arrowlft.jpg 0
+11 Homies\Textures\arrowrgt.jpg 0
+12 Homies\Textures\goalRed.jpg 0
+13 Homies\Textures\goalGreen.jpg 0
+14 Homies\Textures\goalBlue.jpg 0
+15 Homies\Textures\goalYellow.jpg 0
+16 Homies\Textures\teleRed.jpg 0
+17 Homies\Textures\teleGreen.jpg 0
+18 Homies\Textures\teleBlue.jpg 0
+19 Homies\Textures\teleYellow.jpg 0
+20 Homies\Textures\homieRed.jpg 0
+21 Homies\Textures\homieGreen.jpg 0
+22 Homies\Textures\homieBlue.jpg 0
+23 Homies\Textures\homieYellow.jpg 0
+24 Homies\Textures\finishall.jpg 0
+25 Homies\Textures\gameover.jpg 0
+26 Homies\Textures\gothiscore.jpg 0
+27 Homies\Textures\lose.jpg 0
+28 Homies\Textures\topten.jpg 0
+29 Homies\Textures\cont_btn.bmp 1 0,0,255
+30 Homies\Textures\wussout_btn.bmp 1 0,0,255
+31 Homies\Textures\ok_btn.bmp 1 0,0,255
+32 Homies\Textures\victory1.jpg 0
+33 Homies\Textures\bouncewall.jpg 0
+34 Homies\Textures\keyRed.jpg 0
+35 Homies\Textures\keyGreen.jpg 0
+36 Homies\Textures\keyBlue.jpg 0
+37 Homies\Textures\keyYellow.jpg 0
+38 Homies\Textures\holeRed.jpg 0
+39 Homies\Textures\holeGreen.jpg 0
+40 Homies\Textures\holeBlue.jpg 0
+41 Homies\Textures\holeYellow.jpg 0
+42 Homies\Textures\lft_btn.bmp 1 0,0,255
+43 Homies\Textures\rgt_btn.bmp 1 0,0,255
+44 Homies\Textures\hand.jpg 0
+45 Homies\Textures\editor_btn.bmp 0
+46 Homies\Textures\editor.jpg 0
+47 Homies\Textures\edit_btn.bmp 1 0,0,255
+48 Homies\Textures\del_btn.bmp 1 0,0,255
+49 Homies\Textures\ins_btn.bmp 1 0,0,255
+50 Homies\Textures\cancel_btn.bmp 1 0,0,255
+51 Homies\Textures\lft_btn_sm.bmp 1 0,0,255
+52 Homies\Textures\rgt_btn_sm.bmp 1 0,0,255
+53 Homies\Textures\up_btn_sm.bmp 1 0,0,255
+54 Homies\Textures\dn_btn_sm.bmp 1 0,0,255
+55 Homies\Textures\save_btn.bmp 0
+56 Homies\Textures\exit_btn_edit.bmp 0
+57 Homies\Textures\floor2.jpg 0
+58 Homies\Textures\wall2.jpg 0

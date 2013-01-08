@@ -1,0 +1,15 @@
+Mr. Menu Loader v0.2
+
+window 3 0 0 640 480 26 1
+
+editline 31 132 207 256 32 255 255 255 255 1 254 1 1
+Stoned
+
+button 32 256 402 128 64 31 1
+Homies\Sprites\okbtn_s.spr
+
+~
+add 3
+child 31 3
+child 32 3
+~

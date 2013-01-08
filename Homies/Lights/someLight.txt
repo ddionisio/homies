@@ -1,0 +1,12 @@
+numLight=1
+directional
+diff: 1.0,1.0,1.0,1.0
+spec: 0.5,0.5,0.5,1.0
+amb: 0.2,0.2,0.2,1.0
+pos: 0,0,0
+dir: -30,-30,-30
+rng: 100
+foff: 50
+atten012: 100,0,0
+inAngle: 0
+outAngle: 0

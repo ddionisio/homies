@@ -1,0 +1,11 @@
+Mr. Menu Loader v0.2
+
+window 5 0 0 640 480 24 1
+
+button 51 256 402 128 64 31 1
+Homies\Sprites\okbtn_s.spr
+
+~
+add 5
+child 51 5
+~

@@ -1,0 +1,4 @@
+mdlID=2
+animKey=none
+trans=0,5,2
+numChild=0

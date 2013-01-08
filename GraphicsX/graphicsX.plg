@@ -1,0 +1,104 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: graphicsX - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP213.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_MBCS" /D "_LIB" /Fp"Debug/graphicsX.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\lab\homies\GraphicsX\GFX_ParticleFX.cpp"
+"C:\lab\homies\GraphicsX\PARFX_gas.cpp"
+"C:\lab\homies\GraphicsX\PARFX_gas2.cpp"
+"C:\lab\homies\GraphicsX\GFX_Model.cpp"
+"C:\lab\homies\GraphicsX\GFX_ModelGenMap.cpp"
+"C:\lab\homies\GraphicsX\GFX_ModelLoad.cpp"
+"C:\lab\homies\GraphicsX\GFX_Object.cpp"
+"C:\lab\homies\GraphicsX\GFX_ObjectLoad.cpp"
+"C:\lab\homies\GraphicsX\GFX_Map.cpp"
+"C:\lab\homies\GraphicsX\GFX_MapGenMidptFrac.cpp"
+"C:\lab\homies\GraphicsX\d3dapp.cpp"
+"C:\lab\homies\GraphicsX\d3dfont.cpp"
+"C:\lab\homies\GraphicsX\ddutil.cpp"
+"C:\lab\homies\GraphicsX\dxutil.cpp"
+"C:\lab\homies\GraphicsX\GFX_BkgrndFX.cpp"
+"C:\lab\homies\GraphicsX\GFX_Camera.cpp"
+"C:\lab\homies\GraphicsX\GFX_ErrorCheck.cpp"
+"C:\lab\homies\GraphicsX\GFX_Font.cpp"
+"C:\lab\homies\GraphicsX\GFX_Light.cpp"
+"C:\lab\homies\GraphicsX\GFX_Main.cpp"
+"C:\lab\homies\GraphicsX\GFX_Math.cpp"
+"C:\lab\homies\GraphicsX\GFX_Misc.cpp"
+"C:\lab\homies\GraphicsX\GFX_Pager.cpp"
+"C:\lab\homies\GraphicsX\GFX_Sprite.cpp"
+"C:\lab\homies\GraphicsX\GFX_Texture.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP213.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP214.tmp" with contents
+[
+/nologo /out:"Debug\graphicsX.lib" 
+.\Debug\GFX_ParticleFX.obj
+.\Debug\PARFX_gas.obj
+.\Debug\PARFX_gas2.obj
+.\Debug\GFX_Model.obj
+.\Debug\GFX_ModelGenMap.obj
+.\Debug\GFX_ModelLoad.obj
+.\Debug\GFX_Object.obj
+.\Debug\GFX_ObjectLoad.obj
+.\Debug\GFX_Map.obj
+.\Debug\GFX_MapGenMidptFrac.obj
+.\Debug\d3dapp.obj
+.\Debug\d3dfont.obj
+.\Debug\ddutil.obj
+.\Debug\dxutil.obj
+.\Debug\GFX_BkgrndFX.obj
+.\Debug\GFX_Camera.obj
+.\Debug\GFX_ErrorCheck.obj
+.\Debug\GFX_Font.obj
+.\Debug\GFX_Light.obj
+.\Debug\GFX_Main.obj
+.\Debug\GFX_Math.obj
+.\Debug\GFX_Misc.obj
+.\Debug\GFX_Pager.obj
+.\Debug\GFX_Sprite.obj
+.\Debug\GFX_Texture.obj
+]
+Creating command line "link.exe -lib @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP214.tmp"
+<h3>Output Window</h3>
+Compiling...
+GFX_ParticleFX.cpp
+PARFX_gas.cpp
+PARFX_gas2.cpp
+GFX_Model.cpp
+GFX_ModelGenMap.cpp
+GFX_ModelLoad.cpp
+GFX_Object.cpp
+GFX_ObjectLoad.cpp
+GFX_Map.cpp
+GFX_MapGenMidptFrac.cpp
+d3dapp.cpp
+d3dfont.cpp
+ddutil.cpp
+dxutil.cpp
+GFX_BkgrndFX.cpp
+GFX_Camera.cpp
+GFX_ErrorCheck.cpp
+GFX_Font.cpp
+GFX_Light.cpp
+GFX_Main.cpp
+GFX_Math.cpp
+GFX_Misc.cpp
+GFX_Pager.cpp
+GFX_Sprite.cpp
+GFX_Texture.cpp
+Creating library...
+
+
+
+<h3>Results</h3>
+graphicsX.lib - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,22 @@
+[CAMERA]
+eye=40.000000,175.000000,115.000000 yaw=0 pitch=-70 roll=0
+[LIGHT]
+Homies\Lights\someLight.txt
+[TIME]
+40
+[TILES]
+size=5,5
+ 2:2:0 2:2:0 2:2:0 2:2:0 2:2:0
+ 2:2:0 1:1:0 1:1:0 5:4:0 2:2:0
+ 2:2:0 1:1:0 1:1:0 1:1:0 2:2:0
+ 2:2:0 3:8:2 1:1:0 3:7:1 2:2:0
+ 2:2:0 2:2:0 2:2:0 2:2:0 2:2:0
+ 1:1:0
+[HOMIES]
+numHomies=2
+type=2
+obj=Homies\Objects\homieGreen.txt
+indLoc=2,2
+type=1
+obj=Homies\Objects\homieRed.txt
+indLoc=2,1

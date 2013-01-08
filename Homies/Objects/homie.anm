@@ -1,0 +1,5 @@
+delay=4
+numStates=3
+s=0 e=9 d=0.24
+s=10 e=21 d=0.40
+s=22 e=29 d=0.30

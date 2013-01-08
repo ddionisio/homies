@@ -1,0 +1,15 @@
+[CAMERA]
+eye=41.000000,245.000000,145.000000 yaw=0 pitch=-65 roll=0
+[LIGHT]
+Homies\Lights\someLight.txt
+[TIME]
+0
+[TILES]
+size=4,4
+ 1:0:0 1:0:0 1:0:0 1:0:0
+ 1:0:0 1:0:0 1:0:0 1:0:0
+ 1:0:0 1:0:0 1:0:0 1:0:0
+ 1:0:0 1:0:0 1:0:0 1:0:0
+ 1:0:0
+[HOMIES]
+numHomies=0

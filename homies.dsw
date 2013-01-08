@@ -1,0 +1,119 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "Memory"=.\Memory\Memory.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "Menu"=.\Menu\Menu.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "MyInput"=.\MyInput\MyInput.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "Parser"=.\Parser\Parser.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "graphicsX"=.\GraphicsX\graphicsX.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "homies"=.\homies.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name graphicsX
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name Memory
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name Menu
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name MyInput
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name timer
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name Parser
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "timer"=.\timer\timer.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+

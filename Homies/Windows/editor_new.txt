@@ -1,0 +1,51 @@
+Mr. Menu Loader v0.2
+
+window 7 0 0 640 480 46 1
+
+textbox 71 159 39 45 32 255 255 255 127 4 1
+Level Name:
+
+editline 72 159 71 300 32 255 255 255 127 4 100 1 1
+default
+
+textbox 73 159 135 45 32 255 255 255 127 4 1
+Tile Size:
+
+button 74 159 167 16 16 53 1
+Homies\Sprites\arrow_sm.spr
+
+button 75 159 215 16 16 54 1
+Homies\Sprites\arrow_sm.spr
+
+button 76 200 167 16 16 53 1
+Homies\Sprites\arrow_sm.spr
+
+button 77 200 215 16 16 54 1
+Homies\Sprites\arrow_sm.spr
+
+textbox 78 159 183 32 32 255 255 255 127 4 1
+0
+
+textbox 79 200 183 32 32 255 255 255 127 4 1
+0
+
+button 710 495 340 128 64 31 1
+Homies\Sprites\okbtn_s.spr
+
+button 711 495 404 128 64 50 1
+Homies\Sprites\cancelbtn_s.spr
+
+~
+add 7
+child 71 7
+child 72 7
+child 73 7
+child 74 7
+child 75 7
+child 76 7
+child 77 7
+child 78 7
+child 79 7
+child 710 7
+child 711 7
+~

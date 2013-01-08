@@ -1,0 +1,12 @@
+11
+0	0 Pictures\WindowBackground.bmp
+1	1 255 255 255 Pictures\ExitButton.bmp
+2	1 255 255 255 Pictures\EditLineButton.bmp
+3	1 255 255 255 Pictures\ListBoxButton.bmp
+4	1 255 255 255 Pictures\TextBoxButton.bmp
+5	0 Pictures\ScrollBar.bmp
+6	0 Pictures\ScrollBarTop.bmp
+7	0 Pictures\ScrollBarBottom.bmp
+8	0 Pictures\ScrollBarSlider.bmp
+9	0 Pictures\ListBox.bmp
+10	1 255 0 0 Pictures\ScrollBarTop.bmp

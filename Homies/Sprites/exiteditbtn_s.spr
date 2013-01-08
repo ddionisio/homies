@@ -1,0 +1,7 @@
+framesize x=64 y=32
+aniDelay=120
+numFrames=4
+numStates=3
+State first=0 last=0
+State first=3 last=3
+State first=0 last=2

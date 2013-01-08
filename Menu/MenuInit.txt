@@ -1,0 +1,89 @@
+Mr. Menu Loader v0.2
+
+* ID, X, Y, WIDTH, HEIGHT, TEXT ID, VISIBLE
+window 100 0 0 800 600 0 1
+
+* ID, X, Y, WIDTH, HEIGHT, TEXTURE ID, VISIBLE
+button 200 666 530 128 64 1 1
+Pictures\128X64Sprite.txt
+
+button 201 6 60 64 64 2 1
+Pictures\64X64Sprite.txt
+
+button 202 6 134 128 64 3 1
+Pictures\128X64Sprite.txt
+
+button 203 6 208 256 64 4 1
+Pictures\256X64Sprite.txt
+**
+** EditLine input
+*        ID, X, Y, WIDTH, HEIGHT, R, G, B, A, nFONT, MAXCHARS, bTEXT, bVIS
+*   Edit Line Text, if bTEXT is non-zero
+editline 300 200 10 300 32 196 255 255 255 0 180 1 1
+Edit Line Text
+**
+**
+**
+* scroll bar definition is
+* ID, X, Y, WIDTH, HEIGHT, BUTTON HEIGHT, nBITMAP, VISIBLE
+**
+scrollbar 500 -6 0 18 150 12 5 1
+6 Pictures\SBTop.txt
+7 Pictures\SBTop.txt
+8 Pictures\SBSlider.txt
+
+**
+*  ListBox input
+*       ID  X   Y  WIDTH, HEIGHT, nBITMAP, bSHOW
+* nFONT, nCOLOR, nHIGHLIGHTCOLOR
+* nXOFFSET, nYOffset, nTEXTHEIGHT, nSCROLLBAR ID, nTEXTS
+* nTEXTS lines of text to be entered into the box
+**
+listbox 600 400 120 200 150 9 1
+1 255 255 255 155 255 255 0 255
+15 15 25 500 12
+joe
+graig
+tim
+albert
+snee
+roberto
+King Kong
+Mr T.
+leonard
+Mrs. Kensignton
+Pepe!!!1
+The Po-lice, King Kong, aint got nothin, on me!
+
+scrollbar 505 -8 0 18 150 12 5 1
+6 Pictures\SBTop.txt
+7 Pictures\SBTop.txt
+8 Pictures\SBSlider.txt
+
+multiline 700 300 250 200 150 9 1 1
+255 25 255 255
+10 10 170 15 505 9
+  This method of encryption is not used today because it is too easy to crack.  See for example the Sherlock Holmes story “The Adventure of the Dancing Men” by A. Conan Doyle.  In English, some letters such as E and T occur very frequently, while others, such a Q and Z are rare.  You can construct a table of how often characters occur and decode the message.  For example, the short message has 5 U’s, 5 N’s, 4 C’s and 4 L’s.  We can guess that two of these four symbols represent T and E.  Seeing the string “USL” twice we can guess that it means “THE” and we are on our way to cracking the code.
+
+  The idea that some letters occur more often than others can be used for data compression.
+
+  Why should every letter get 8 bits?  We can represent the most common characters (such as space, E, T) in 3 or 4 bits and use 12 or more bits for the unusual characters.  This is the idea behind Huffman encoding, invented by D.A. Huffman in 1952.
+
+  This idea works as long as some letters (or colors) occur much more often than others.  If we are encoding white noise (any character is equally likely) then Huffman encoding will not achieve any compression.
+
+  In Huffman coding, we construct a usage table for a typical message [or for a specific message].  We then use the frequencies of usage to construct a binary tree from the bottom up.  The binary tree then gives the bit code for each character.
+
+* ID, X, Y, WIDTH, HEIGHT, R, G, B, A, nFONT, bSHOW
+textbox 401 10 10 200 32 0 255 0 255 2 1
+0 fps
+~
+add 100
+add 300
+child 200 100
+child 201 100
+child 202 100
+child 203 100
+child 401 100
+child 600 100
+child 700 100
+~

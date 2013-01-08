@@ -1,0 +1,83 @@
+Mr. Menu Loader v0.2
+
+window 8 0 0 640 480 -1 1
+
+button 81 0 0 64 32 55 1
+Homies\Sprites\savebtn_s.spr
+
+button 82 84 0 64 32 56 1
+Homies\Sprites\exiteditbtn_s.spr
+
+textbox 83 500 0 100 32 255 255 255 127 4 1
+Tile Type:
+
+button 84 500 32 16 16 51 1
+Homies\Sprites\arrow_sm.spr
+
+button 85 516 32 16 16 52 1
+Homies\Sprites\arrow_sm.spr
+
+textbox 86 532 32 100 32 255 255 255 127 4 1
+?
+
+textbox 87 500 64 100 32 255 255 255 127 4 1
+Tile GFX:
+
+button 88 500 96 16 16 51 1
+Homies\Sprites\arrow_sm.spr
+
+button 89 516 96 16 16 52 1
+Homies\Sprites\arrow_sm.spr
+
+textbox 810 500 128 100 32 255 255 255 127 4 1
+Tile Color:
+
+button 811 500 160 16 16 51 1
+Homies\Sprites\arrow_sm.spr
+
+button 812 516 160 16 16 52 1
+Homies\Sprites\arrow_sm.spr
+
+textbox 813 532 160 100 32 255 255 255 127 4 1
+?
+
+textbox 814 500 192 100 32 255 255 255 127 4 1
+Homie:
+
+button 815 500 224 16 16 51 1
+Homies\Sprites\arrow_sm.spr
+
+button 816 516 224 16 16 52 1
+Homies\Sprites\arrow_sm.spr
+
+textbox 817 532 224 100 32 255 255 255 127 4 1
+?
+
+textbox 818 500 256 100 32 255 255 255 127 4 1
+Time:
+
+editline 819 500 288 100 32 255 255 255 127 4 10 1 1
+0
+
+~
+add 8
+child 81 8
+child 82 8
+child 83 8
+child 84 8
+child 85 8
+child 86 8
+child 87 8
+child 88 8
+child 89 8
+child 810 8
+child 811 8
+child 812 8
+child 813 8
+child 814 8
+child 815 8
+child 816 8
+child 817 8
+child 818 8
+child 819 8
+~

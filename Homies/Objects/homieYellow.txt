@@ -1,0 +1,4 @@
+mdlID=19
+animKey=Homies\Objects\homie.anm
+trans=0,0,0
+numChild=0

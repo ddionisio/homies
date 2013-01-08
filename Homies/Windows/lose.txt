@@ -1,0 +1,12 @@
+Mr. Menu Loader v0.2
+
+button 21 256 318 128 64 29 1
+Homies\Sprites\continuebtn_s.spr
+
+button 22 256 402 128 64 30 1
+Homies\Sprites\wussoutbtn_s.spr
+
+~
+child 21 2
+child 22 2
+~

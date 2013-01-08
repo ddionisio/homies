@@ -1,0 +1,35 @@
+Mr. Menu Loader v0.2
+
+window 6 0 0 640 480 46 1
+
+button 61 256 145 32 32 42 1
+Homies\Sprites\arrow.spr
+
+button 62 288 145 32 32 43 1
+Homies\Sprites\arrow.spr
+
+textbox 63 326 149 45 32 255 255 255 127 4 1
+0
+
+button 64 256 180 128 64 47 1
+Homies\Sprites\editbtn_s.spr
+
+button 65 256 254 128 64 48 1
+Homies\Sprites\delbtn_s.spr
+
+button 66 256 328 128 64 49 1
+Homies\Sprites\insbtn_s.spr
+
+button 67 256 402 128 64 50 1
+Homies\Sprites\cancelbtn_s.spr
+
+~
+add 6
+child 61 6
+child 62 6
+child 63 6
+child 64 6
+child 65 6
+child 66 6
+child 67 6
+~
